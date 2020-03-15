@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://naenieghe.ubfma.com/sitemap.xml
